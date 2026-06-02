@@ -1,5 +1,4 @@
--- Classic "gaps and islands": for consecutive dates, (date - row_number) stays
--- constant within a streak, so it can be used as a group key for each island.
+
 WITH distinct_days AS (
     SELECT DISTINCT user_id, login_date
     FROM user_logins
