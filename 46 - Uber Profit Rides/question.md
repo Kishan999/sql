@@ -1,6 +1,6 @@
 # Uber Profit Rides
 
-A **profit ride** for an Uber driver is a ride whose **start location** and **start time** exactly match the **end location** and **end time** of that driver’s **immediately previous** ride....
+A **profit ride** for an Uber driver is a ride whose **start location** and **start time** exactly match the **end location** and **end time** of that driver’s **immediately previous** ride.
 
 ## Task
 

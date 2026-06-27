@@ -17,10 +17,10 @@ Write an SQL query to:
 ### `survey`
 
 | Column             | Type         |
-|----------------------|--------------|
-| `country`            | varchar(20)  |
-| `job_satisfaction`   | int          |
-| `name`               | varchar(10)  |
+|--------------------|--------------|
+| `country`          | varchar(20)  |
+| `job_satisfaction` | int          |
+| `name`             | varchar(10)  |
 
 Each row represents one respondent.
 

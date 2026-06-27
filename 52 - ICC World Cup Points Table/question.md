@@ -1,8 +1,14 @@
+# ICC World Cup Points Table
+
 You are given a table of cricket matches played in an ICC cricket tournament with the details of the winner for each match. You need to derive a points table using the rules below.
+
+## Rules
 
 1. For each **win**, a team gets **2 points**.
 2. For a **loss**, a team gets **0 points**.
 3. In case of a **draw**, both teams get **1 point** each.
+
+## Task
 
 Display **team name**, **matches played**, **# of wins**, **# of losses**, and **points**. Sort the output in **ascending order of team name**.
 
